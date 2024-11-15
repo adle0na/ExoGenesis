@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="8b7e5f25-2f03-4185-80df-c68f1681ef4a" name="Changes" comment="" />
+    <list default="true" id="8b7e5f25-2f03-4185-80df-c68f1681ef4a" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ExoGenesis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExoGenesis/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2lrq2u1RdEz59vp2G5qgZ5Ic4y1" />
   <component name="ProjectViewState">
@@ -52,6 +60,10 @@
       <option name="presentableId" value="Default" />
       <updated>1725948343204</updated>
       <workItem from="1725948353654" duration="329000" />
+      <workItem from="1730481769346" duration="1204000" />
+      <workItem from="1730494381457" duration="1978000" />
+      <workItem from="1731197705791" duration="483000" />
+      <workItem from="1731505240845" duration="1197000" />
     </task>
     <servers />
   </component>
@@ -59,6 +71,7 @@
     <option name="version" value="3" />
   </component>
   <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
   <component name="UnityUnitTestConfiguration" currentTestLauncher="EditMode" />
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
