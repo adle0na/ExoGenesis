@@ -3,9 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="8b7e5f25-2f03-4185-80df-c68f1681ef4a" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ExoGenesis/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ExoGenesis/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/MainScene.unity" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorBuildSettings.asset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Scenes/Demo_Day.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/PolygonNatureBiomes/PNB_Tropical_Jungle/Scenes/Demo_Day.unity" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +62,7 @@
       <workItem from="1730494381457" duration="1978000" />
       <workItem from="1731197705791" duration="483000" />
       <workItem from="1731505240845" duration="1197000" />
+      <workItem from="1731681987051" duration="2537000" />
     </task>
     <servers />
   </component>
